@@ -1,0 +1,1962 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro M3 14 pulgadas",
+    "slug": "macbook-pro-m3-14-pulgadas",
+    "description": "El MacBook Pro de 14 pulgadas con chip M3 ofrece un rendimiento excepcional para profesionales creativos. Con una pantalla Liquid Retina XDR impresionante, hasta 22 horas de batería y un diseño ultradelgado, es la herramienta perfecta para edición de video, desarrollo de software y tareas exigentes.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/macbook-pro-14-and-16/",
+    "featured": true,
+    "price": "$1,999"
+  },
+  {
+    "id": 2,
+    "name": "Sony WH-1000XM5 Auriculares",
+    "slug": "sony-wh-1000xm5-auriculares",
+    "description": "Los auriculares inalámbricos Sony WH-1000XM5 ofrecen la mejor cancelación de ruido de su clase. Con hasta 30 horas de batería, carga rápida y calidad de sonido excepcional, son perfectos para viajes, trabajo y entretenimiento diario.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.sony.com/headphones/wh-1000xm5",
+    "featured": true,
+    "price": "$399"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 15 Pro Max",
+    "slug": "iphone-15-pro-max",
+    "description": "El iPhone 15 Pro Max con chip A17 Pro revoluciona la fotografía móvil y el rendimiento. Con cámaras pro avanzadas, pantalla Super Retina XDR de 6.7 pulgadas y construcción en titanio, es el smartphone más avanzado disponible.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/iphone-15-pro/",
+    "featured": false,
+    "price": "$1,199"
+  },
+  {
+    "id": 4,
+    "name": "Dell XPS 13 Plus",
+    "slug": "dell-xps-13-plus",
+    "description": "La laptop Dell XPS 13 Plus combina portabilidad extrema con rendimiento profesional. Con procesadores Intel de última generación, pantalla InfinityEdge 4K y diseño premium, es ideal para profesionales que necesitan potencia en movimiento.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.dell.com/xps-13-plus",
+    "featured": true,
+    "price": "$1,299"
+  },
+  {
+    "id": 5,
+    "name": "iPad Pro 12.9 M2",
+    "slug": "ipad-pro-12-9-m2",
+    "description": "El iPad Pro de 12.9 pulgadas con chip M2 redefine la productividad móvil. Con pantalla Liquid Retina XDR, compatibilidad con Apple Pencil y Magic Keyboard, es la tablet más versátil para creativos y profesionales.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/ipad-pro/",
+    "featured": false,
+    "price": "$1,099"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy Watch 6",
+    "slug": "samsung-galaxy-watch-6",
+    "description": "El Samsung Galaxy Watch 6 lleva el seguimiento de salud y fitness al siguiente nivel. Con sensores avanzados, GPS integrado, resistencia al agua y hasta 40 horas de batería, es el compañero perfecto para un estilo de vida activo.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.samsung.com/galaxy-watch-6",
+    "featured": false,
+    "price": "$329"
+  },
+  {
+    "id": 7,
+    "name": "Logitech MX Master 3S",
+    "slug": "logitech-mx-master-3s",
+    "description": "El mouse Logitech MX Master 3S es la herramienta definitiva para productividad. Con seguimiento preciso en cualquier superficie, scroll electromagnético silencioso y hasta 70 días de batería, optimiza tu flujo de trabajo diario.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.logitech.com/mx-master-3s",
+    "featured": false,
+    "price": "$99"
+  },
+  {
+    "id": 8,
+    "name": "NVIDIA GeForce RTX 4080",
+    "slug": "nvidia-geforce-rtx-4080",
+    "description": "La tarjeta gráfica NVIDIA GeForce RTX 4080 ofrece rendimiento excepcional para gaming 4K y creación de contenido. Con tecnología Ada Lovelace, ray tracing avanzado y DLSS 3, lleva tus juegos y aplicaciones al máximo nivel.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.nvidia.com/rtx-4080",
+    "featured": true,
+    "price": "$1,199"
+  },
+  {
+    "id": 9,
+    "name": "HP Spectre x360 14",
+    "slug": "hp-spectre-x360-14",
+    "description": "La HP Spectre x360 14 es una laptop convertible premium con pantalla OLED, procesador Intel Core i7 y batería de larga duración. Ideal para profesionales y estudiantes.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.hp.com/spectre-x360-14",
+    "featured": false,
+    "price": "$1,499"
+  },
+  {
+    "id": 10,
+    "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "slug": "lenovo-thinkpad-x1-carbon-gen-11",
+    "description": "La ThinkPad X1 Carbon Gen 11 es una laptop ultraligera y resistente, con pantalla 2K, procesador Intel de 13ª generación y teclado legendario.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.lenovo.com/thinkpad-x1-carbon",
+    "featured": false,
+    "price": "$1,799"
+  },
+  {
+    "id": 11,
+    "name": "Asus ROG Zephyrus G14",
+    "slug": "asus-rog-zephyrus-g14",
+    "description": "La Asus ROG Zephyrus G14 es una laptop gamer compacta con GPU RTX 4060, pantalla QHD y diseño elegante. Perfecta para gaming y productividad.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.asus.com/rog-zephyrus-g14",
+    "featured": true,
+    "price": "$1,599"
+  },
+  {
+    "id": 12,
+    "name": "Acer Swift 5 EVO",
+    "slug": "acer-swift-5-evo",
+    "description": "Ultraligera, con pantalla táctil Full HD, procesador Intel EVO y batería de larga duración. Perfecta para movilidad.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.acer.com/swift-5-evo",
+    "featured": false,
+    "price": "$1,099"
+  },
+  {
+    "id": 13,
+    "name": "Microsoft Surface Laptop 5",
+    "slug": "microsoft-surface-laptop-5",
+    "description": "Laptop elegante con pantalla táctil PixelSense, procesador Intel Core i7 y batería para todo el día.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.microsoft.com/surface-laptop-5",
+    "featured": false,
+    "price": "$1,299"
+  },
+  {
+    "id": 14,
+    "name": "Huawei MateBook X Pro",
+    "slug": "huawei-matebook-x-pro",
+    "description": "Laptop premium con pantalla 3K, procesador Intel Core i7 y diseño ultradelgado.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.huawei.com/matebook-x-pro",
+    "featured": true,
+    "price": "$1,499"
+  },
+  {
+    "id": 15,
+    "name": "Razer Blade 15",
+    "slug": "razer-blade-15",
+    "description": "Laptop gamer con GPU RTX 3070, pantalla 300Hz y chasis de aluminio.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.razer.com/blade-15",
+    "featured": false,
+    "price": "$2,199"
+  },
+  {
+    "id": 16,
+    "name": "Apple MacBook Air M2",
+    "slug": "apple-macbook-air-m2",
+    "description": "Ligera, potente y silenciosa. Chip M2, pantalla Liquid Retina y hasta 18 horas de batería.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/macbook-air-m2/",
+    "featured": true,
+    "price": "$1,199"
+  },
+  {
+    "id": 17,
+    "name": "Dell Inspiron 16 Plus",
+    "slug": "dell-inspiron-16-plus",
+    "description": "Pantalla 3K, procesador Intel Core i7, ideal para productividad y entretenimiento.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.dell.com/inspiron-16-plus",
+    "featured": false,
+    "price": "$1,099"
+  },
+  {
+    "id": 18,
+    "name": "MSI Prestige 14 Evo",
+    "slug": "msi-prestige-14-evo",
+    "description": "Laptop ultraligera con Intel Evo, pantalla True Color y batería de larga duración.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.msi.com/prestige-14-evo",
+    "featured": false,
+    "price": "$1,299"
+  },
+  {
+    "id": 19,
+    "name": "Gigabyte Aero 16 OLED",
+    "slug": "gigabyte-aero-16-oled",
+    "description": "Laptop creativa con pantalla OLED 4K, GPU RTX 3070 y diseño premium.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.gigabyte.com/aero-16-oled",
+    "featured": true,
+    "price": "$2,299"
+  },
+  {
+    "id": 20,
+    "name": "Samsung Galaxy Book Pro 360",
+    "slug": "samsung-galaxy-book-pro-360",
+    "description": "Convertible 2 en 1 con pantalla AMOLED, S Pen y procesador Intel Core i7.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.samsung.com/galaxy-book-pro-360",
+    "featured": false,
+    "price": "$1,399"
+  },
+  {
+    "id": 21,
+    "name": "Alienware x14",
+    "slug": "alienware-x14",
+    "description": "Laptop gamer ultradelgada con GPU RTX 3060, pantalla 144Hz y diseño futurista.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.alienware.com/x14",
+    "featured": true,
+    "price": "$1,899"
+  },
+  {
+    "id": 22,
+    "name": "Chuwi HeroBook Pro",
+    "slug": "chuwi-herobook-pro",
+    "description": "Laptop económica con pantalla Full HD, 8GB RAM y SSD de 256GB. Ideal para estudiantes.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.chuwi.com/herobook-pro",
+    "featured": false,
+    "price": "$349"
+  },
+  {
+    "id": 23,
+    "name": "Bose QuietComfort 45",
+    "slug": "bose-quietcomfort-45",
+    "description": "Auriculares inalámbricos con cancelación de ruido, sonido premium y hasta 24 horas de batería.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.bose.com/quietcomfort-45",
+    "featured": true,
+    "price": "$329"
+  },
+  {
+    "id": 24,
+    "name": "JBL Charge 5",
+    "slug": "jbl-charge-5",
+    "description": "Altavoz Bluetooth portátil resistente al agua, con 20 horas de batería y sonido potente.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.jbl.com/charge-5",
+    "featured": false,
+    "price": "$179"
+  },
+  {
+    "id": 25,
+    "name": "Apple AirPods Pro 2",
+    "slug": "apple-airpods-pro-2",
+    "description": "Auriculares inalámbricos con cancelación activa de ruido, modo transparencia y audio espacial.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/airpods-pro/",
+    "featured": true,
+    "price": "$249"
+  },
+  {
+    "id": 26,
+    "name": "Sony SRS-XB43",
+    "slug": "sony-srs-xb43",
+    "description": "Altavoz portátil con graves extra, resistencia al agua y hasta 24 horas de batería.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.sony.com/srs-xb43",
+    "featured": false,
+    "price": "$199"
+  },
+  {
+    "id": 27,
+    "name": "Sennheiser HD 560S",
+    "slug": "sennheiser-hd-560s",
+    "description": "Auriculares abiertos para audiófilos, sonido natural y gran comodidad para largas sesiones.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.sennheiser.com/hd-560s",
+    "featured": false,
+    "price": "$199"
+  },
+  {
+    "id": 28,
+    "name": "Marshall Emberton II",
+    "slug": "marshall-emberton-ii",
+    "description": "Altavoz portátil con diseño clásico Marshall, resistente al agua y hasta 30 horas de batería.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.marshallheadphones.com/emberton-ii",
+    "featured": false,
+    "price": "$169"
+  },
+  {
+    "id": 29,
+    "name": "Beats Studio Buds",
+    "slug": "beats-studio-buds",
+    "description": "Auriculares inalámbricos con cancelación de ruido, resistencia al sudor y hasta 8 horas de batería.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.beatsbydre.com/studio-buds",
+    "featured": false,
+    "price": "$149"
+  },
+  {
+    "id": 30,
+    "name": "Anker Soundcore Life Q35",
+    "slug": "anker-soundcore-life-q35",
+    "description": "Auriculares Bluetooth con cancelación activa de ruido, hasta 40 horas de batería y sonido Hi-Res.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.soundcore.com/life-q35",
+    "featured": false,
+    "price": "$129"
+  },
+  {
+    "id": 31,
+    "name": "Jabra Elite 7 Pro",
+    "slug": "jabra-elite-7-pro",
+    "description": "Auriculares true wireless con cancelación activa de ruido, 8 micrófonos y carga inalámbrica.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.jabra.com/elite-7-pro",
+    "featured": true,
+    "price": "$199"
+  },
+  {
+    "id": 32,
+    "name": "Samsung Galaxy S24 Ultra",
+    "slug": "samsung-galaxy-s24-ultra",
+    "description": "Smartphone de gama alta con cámara de 200MP, pantalla AMOLED 6.8\", batería de larga duración y S-Pen integrado.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.samsung.com/galaxy-s24-ultra",
+    "featured": true,
+    "price": "$1,399"
+  },
+  {
+    "id": 33,
+    "name": "Google Pixel 8 Pro",
+    "slug": "google-pixel-8-pro",
+    "description": "El nuevo Pixel 8 Pro con cámara avanzada, pantalla OLED de 6.7\" y Android puro.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://store.google.com/pixel-8-pro",
+    "featured": false,
+    "price": "$999"
+  },
+  {
+    "id": 34,
+    "name": "Xiaomi 14 Ultra",
+    "slug": "xiaomi-14-ultra",
+    "description": "Smartphone con cámara Leica, Snapdragon 8 Gen 3 y carga ultra rápida.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.mi.com/14-ultra",
+    "featured": false,
+    "price": "$1,099"
+  },
+  {
+    "id": 35,
+    "name": "OnePlus 12",
+    "slug": "oneplus-12",
+    "description": "Pantalla AMOLED 120Hz, carga rápida de 100W y OxygenOS optimizado.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.oneplus.com/12",
+    "featured": false,
+    "price": "$899"
+  },
+  {
+    "id": 36,
+    "name": "Motorola Edge 50 Pro",
+    "slug": "motorola-edge-50-pro",
+    "description": "Cámara triple de 108MP, pantalla curva y batería de 5000mAh.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.motorola.com/edge-50-pro",
+    "featured": false,
+    "price": "$799"
+  },
+  {
+    "id": 37,
+    "name": "Sony Xperia 1 V",
+    "slug": "sony-xperia-1-v",
+    "description": "Smartphone con pantalla 4K OLED, grabación de video profesional y audio Hi-Res.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.sony.com/xperia-1-v",
+    "featured": false,
+    "price": "$1,299"
+  },
+  {
+    "id": 38,
+    "name": "Oppo Find X7 Pro",
+    "slug": "oppo-find-x7-pro",
+    "description": "Cámara periscópica, pantalla curva AMOLED y carga inalámbrica rápida.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.oppo.com/find-x7-pro",
+    "featured": false,
+    "price": "$1,099"
+  },
+  {
+    "id": 39,
+    "name": "Realme GT 3",
+    "slug": "realme-gt-3",
+    "description": "Smartphone con Snapdragon 8+ Gen 1, pantalla AMOLED y carga de 150W.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.realme.com/gt-3",
+    "featured": false,
+    "price": "$699"
+  },
+  {
+    "id": 40,
+    "name": "Vivo X100 Pro",
+    "slug": "vivo-x100-pro",
+    "description": "Cámara Zeiss, pantalla curva y batería de 5000mAh con carga rápida.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.vivo.com/x100-pro",
+    "featured": false,
+    "price": "$1,099"
+  },
+  {
+    "id": 41,
+    "name": "Asus Zenfone 10",
+    "slug": "asus-zenfone-10",
+    "description": "Compacto, potente y con cámara gimbal para video ultra estable.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.asus.com/zenfone-10",
+    "featured": false,
+    "price": "$799"
+  },
+  {
+    "id": 42,
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "slug": "samsung-galaxy-tab-s9-ultra",
+    "description": "Tablet premium con pantalla AMOLED de 14.6\", S Pen incluido y procesador Snapdragon 8 Gen 2.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.samsung.com/galaxy-tab-s9-ultra",
+    "featured": true,
+    "price": "$1,199"
+  },
+  {
+    "id": 43,
+    "name": "Apple iPad Air 2024",
+    "slug": "apple-ipad-air-2024",
+    "description": "Tablet ligera con chip M3, pantalla Liquid Retina y compatibilidad con Apple Pencil 3.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/ipad-air/",
+    "featured": false,
+    "price": "$799"
+  },
+  {
+    "id": 44,
+    "name": "Lenovo Tab P12 Pro",
+    "slug": "lenovo-tab-p12-pro",
+    "description": "Tablet Android con pantalla AMOLED 2K, cuatro altavoces JBL y batería de larga duración.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.lenovo.com/tab-p12-pro",
+    "featured": false,
+    "price": "$699"
+  },
+  {
+    "id": 45,
+    "name": "Xiaomi Pad 6 Pro",
+    "slug": "xiaomi-pad-6-pro",
+    "description": "Tablet con pantalla 2.8K, Snapdragon 8+ Gen 1 y batería de 8600mAh.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.mi.com/pad-6-pro",
+    "featured": false,
+    "price": "$599"
+  },
+  {
+    "id": 46,
+    "name": "Huawei MatePad Pro 13.2",
+    "slug": "huawei-matepad-pro-13-2",
+    "description": "Tablet con pantalla OLED, HarmonyOS y soporte para M-Pencil.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.huawei.com/matepad-pro-13-2",
+    "featured": false,
+    "price": "$899"
+  },
+  {
+    "id": 47,
+    "name": "Microsoft Surface Pro 9",
+    "slug": "microsoft-surface-pro-9",
+    "description": "Tablet convertible con pantalla PixelSense, procesador Intel Core i7 y Windows 11.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.microsoft.com/surface-pro-9",
+    "featured": true,
+    "price": "$1,299"
+  },
+  {
+    "id": 48,
+    "name": "Amazon Fire HD 10 2023",
+    "slug": "amazon-fire-hd-10-2023",
+    "description": "Tablet económica con pantalla Full HD, Alexa integrada y batería de larga duración.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.amazon.com/fire-hd-10",
+    "featured": false,
+    "price": "$149"
+  },
+  {
+    "id": 49,
+    "name": "Alldocube iPlay 50 Pro",
+    "slug": "alldocube-iplay-50-pro",
+    "description": "Tablet Android con pantalla 2K, 8GB RAM y 128GB de almacenamiento.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.alldocube.com/iplay-50-pro",
+    "featured": false,
+    "price": "$199"
+  },
+  {
+    "id": 50,
+    "name": "Apple Watch Series 9",
+    "slug": "apple-watch-series-9",
+    "description": "Smartwatch con pantalla Always-On, sensores avanzados de salud y compatibilidad con apps de fitness.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/apple-watch-series-9/",
+    "featured": true,
+    "price": "$499"
+  },
+  {
+    "id": 51,
+    "name": "Fitbit Charge 6",
+    "slug": "fitbit-charge-6",
+    "description": "Pulsera de actividad con GPS, monitor de ritmo cardíaco y hasta 7 días de batería.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.fitbit.com/charge-6",
+    "featured": false,
+    "price": "$149"
+  },
+  {
+    "id": 52,
+    "name": "Garmin Forerunner 965",
+    "slug": "garmin-forerunner-965",
+    "description": "Reloj deportivo con GPS, pantalla AMOLED y métricas avanzadas para corredores.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.garmin.com/forerunner-965",
+    "featured": false,
+    "price": "$599"
+  },
+  {
+    "id": 53,
+    "name": "Xiaomi Mi Band 8",
+    "slug": "xiaomi-mi-band-8",
+    "description": "Pulsera inteligente económica con pantalla AMOLED, monitor de sueño y resistencia al agua.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.mi.com/mi-band-8",
+    "featured": false,
+    "price": "$49"
+  },
+  {
+    "id": 54,
+    "name": "Amazfit GTR 4",
+    "slug": "amazfit-gtr-4",
+    "description": "Smartwatch con GPS, pantalla AMOLED y hasta 14 días de batería.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.amazfit.com/gtr-4",
+    "featured": false,
+    "price": "$199"
+  },
+  {
+    "id": 55,
+    "name": "Samsung Galaxy Fit 3",
+    "slug": "samsung-galaxy-fit-3",
+    "description": "Pulsera fitness con pantalla AMOLED, resistencia al agua y seguimiento de actividad 24/7.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.samsung.com/galaxy-fit-3",
+    "featured": false,
+    "price": "$79"
+  },
+  {
+    "id": 56,
+    "name": "Huawei Watch GT 4",
+    "slug": "huawei-watch-gt-4",
+    "description": "Smartwatch con batería de hasta 2 semanas, GPS y monitor de oxígeno en sangre.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.huawei.com/watch-gt-4",
+    "featured": false,
+    "price": "$229"
+  },
+  {
+    "id": 57,
+    "name": "Logitech K380 Teclado Bluetooth",
+    "slug": "logitech-k380-teclado-bluetooth",
+    "description": "Teclado compacto y portátil, compatible con múltiples dispositivos y batería de larga duración.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.logitech.com/k380",
+    "featured": false,
+    "price": "$49"
+  },
+  {
+    "id": 58,
+    "name": "Razer DeathAdder V2",
+    "slug": "razer-deathadder-v2",
+    "description": "Mouse ergonómico para gaming con sensor óptico de 20,000 DPI y switches mecánicos.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.razer.com/deathadder-v2",
+    "featured": true,
+    "price": "$69"
+  },
+  {
+    "id": 59,
+    "name": "Apple Magic Mouse 2",
+    "slug": "apple-magic-mouse-2",
+    "description": "Mouse inalámbrico con superficie multitáctil y diseño minimalista.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/magic-mouse-2/",
+    "featured": false,
+    "price": "$79"
+  },
+  {
+    "id": 60,
+    "name": "Kingston DataTraveler 128GB",
+    "slug": "kingston-datatraveler-128gb",
+    "description": "Memoria USB 3.2 de alta velocidad, ideal para transferir archivos grandes.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.kingston.com/datatraveler",
+    "featured": false,
+    "price": "$25"
+  },
+  {
+    "id": 61,
+    "name": "SanDisk Extreme Pro SDXC 256GB",
+    "slug": "sandisk-extreme-pro-sdxc-256gb",
+    "description": "Tarjeta SD de alta velocidad para cámaras profesionales y grabación 4K.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.sandisk.com/extreme-pro-sdxc",
+    "featured": false,
+    "price": "$69"
+  },
+  {
+    "id": 62,
+    "name": "Baseus Hub USB-C 7 en 1",
+    "slug": "baseus-hub-usb-c-7-en-1",
+    "description": "Hub multifunción con HDMI, USB 3.0, lector de tarjetas y carga rápida.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.baseus.com/hub-usb-c-7-en-1",
+    "featured": false,
+    "price": "$39"
+  },
+  {
+    "id": 63,
+    "name": "TP-Link Archer T3U Plus",
+    "slug": "tp-link-archer-t3u-plus",
+    "description": "Adaptador WiFi USB AC1300 con antena de alta ganancia para mejor cobertura.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.tp-link.com/archer-t3u-plus",
+    "featured": false,
+    "price": "$29"
+  },
+  {
+    "id": 64,
+    "name": "AMD Ryzen 9 7950X3D",
+    "slug": "amd-ryzen-9-7950x3d",
+    "description": "Procesador de alto rendimiento para gaming y creación de contenido, 16 núcleos y 32 hilos.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.amd.com/ryzen-9-7950x3d",
+    "featured": true,
+    "price": "$699"
+  },
+  {
+    "id": 65,
+    "name": "Intel Core i9-14900K",
+    "slug": "intel-core-i9-14900k",
+    "description": "Procesador de 24 núcleos, ideal para gaming extremo y tareas profesionales.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.intel.com/core-i9-14900k",
+    "featured": false,
+    "price": "$649"
+  },
+  {
+    "id": 66,
+    "name": "NVIDIA GeForce RTX 4090",
+    "slug": "nvidia-geforce-rtx-4090",
+    "description": "Tarjeta gráfica tope de gama con 24GB GDDR6X, ideal para gaming 4K y AI.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.nvidia.com/rtx-4090",
+    "featured": true,
+    "price": "$1,799"
+  },
+  {
+    "id": 67,
+    "name": "Corsair Vengeance DDR5 32GB",
+    "slug": "corsair-vengeance-ddr5-32gb",
+    "description": "Kit de memoria RAM DDR5 de alta velocidad, ideal para equipos de alto rendimiento.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.corsair.com/vengeance-ddr5",
+    "featured": false,
+    "price": "$199"
+  },
+  {
+    "id": 68,
+    "name": "Samsung 990 PRO 2TB NVMe",
+    "slug": "samsung-990-pro-2tb-nvme",
+    "description": "SSD NVMe ultrarrápido con velocidades de hasta 7,450 MB/s para cargas y transferencias instantáneas.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.samsung.com/ssd-990-pro",
+    "featured": false,
+    "price": "$249"
+  },
+  {
+    "id": 69,
+    "name": "ASUS ROG Strix Z790-E",
+    "slug": "asus-rog-strix-z790-e",
+    "description": "Placa base para Intel 13ª/14ª generación, WiFi 6E, PCIe 5.0 y Aura Sync RGB.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://rog.asus.com/strix-z790-e",
+    "featured": false,
+    "price": "$499"
+  },
+  {
+    "id": 70,
+    "name": "NZXT Kraken Elite 360",
+    "slug": "nzxt-kraken-elite-360",
+    "description": "Refrigeración líquida AIO con pantalla LCD personalizable y alto rendimiento térmico.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.nzxt.com/kraken-elite-360",
+    "featured": false,
+    "price": "$249"
+  },
+  {
+    "id": 71,
+    "name": "HP Envy 16",
+    "slug": "hp-envy-16",
+    "description": "Laptop creativa con pantalla 4K OLED, procesador Intel Core i9 y gráficos RTX 4060.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.hp.com/envy-16",
+    "featured": false,
+    "price": "$1,899"
+  },
+  {
+    "id": 72,
+    "name": "Dell Latitude 9440",
+    "slug": "dell-latitude-9440",
+    "description": "Laptop empresarial premium con pantalla QHD+, batería de larga duración y diseño ultraligero.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.dell.com/latitude-9440",
+    "featured": false,
+    "price": "$2,099"
+  },
+  {
+    "id": 73,
+    "name": "Acer Nitro 5",
+    "slug": "acer-nitro-5",
+    "description": "Laptop gamer asequible con GPU RTX 4050, pantalla 144Hz y teclado retroiluminado.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.acer.com/nitro-5",
+    "featured": false,
+    "price": "$1,099"
+  },
+  {
+    "id": 74,
+    "name": "Microsoft Surface Laptop Studio 2",
+    "slug": "microsoft-surface-laptop-studio-2",
+    "description": "Laptop convertible para creadores, pantalla táctil de 14.4\", GPU RTX 4060 y stylus.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.microsoft.com/surface-laptop-studio-2",
+    "featured": true,
+    "price": "$2,499"
+  },
+  {
+    "id": 75,
+    "name": "Asus Vivobook S 15 OLED",
+    "slug": "asus-vivobook-s-15-oled",
+    "description": "Laptop ligera con pantalla OLED, procesador Intel Core i7 y diseño juvenil.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.asus.com/vivobook-s-15-oled",
+    "featured": false,
+    "price": "$1,299"
+  },
+  {
+    "id": 76,
+    "name": "Lenovo Yoga 9i Gen 8",
+    "slug": "lenovo-yoga-9i-gen-8",
+    "description": "Convertible premium con pantalla 4K, altavoces Bowers & Wilkins y stylus incluido.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.lenovo.com/yoga-9i-gen-8",
+    "featured": true,
+    "price": "$1,799"
+  },
+  {
+    "id": 77,
+    "name": "MSI Stealth 16 Studio",
+    "slug": "msi-stealth-16-studio",
+    "description": "Laptop gamer y creativa con GPU RTX 4070, pantalla QHD+ y diseño ultradelgado.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.msi.com/stealth-16-studio",
+    "featured": false,
+    "price": "$2,199"
+  },
+  {
+    "id": 78,
+    "name": "Huawei MateBook D 15",
+    "slug": "huawei-matebook-d-15",
+    "description": "Laptop económica con pantalla Full HD, procesador Intel Core i5 y diseño metálico.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.huawei.com/matebook-d-15",
+    "featured": false,
+    "price": "$699"
+  },
+  {
+    "id": 79,
+    "name": "Apple MacBook Pro M3 Max",
+    "slug": "apple-macbook-pro-m3-max",
+    "description": "El portátil más potente de Apple, con chip M3 Max, pantalla XDR y hasta 96GB de RAM.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/macbook-pro-m3-max/",
+    "featured": true,
+    "price": "$3,999"
+  },
+  {
+    "id": 80,
+    "name": "Chuwi GemiBook XPro",
+    "slug": "chuwi-gemibook-xpro",
+    "description": "Laptop económica con pantalla IPS, 12GB RAM y SSD de 512GB. Ideal para estudiantes.",
+    "category": "Laptops",
+    "images": [
+      "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.chuwi.com/gemibook-xpro",
+    "featured": false,
+    "price": "$399"
+  },
+  {
+    "id": 81,
+    "name": "Sony WF-1000XM5",
+    "slug": "sony-wf-1000xm5",
+    "description": "Auriculares true wireless con cancelación de ruido líder en la industria y sonido Hi-Res.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.sony.com/wf-1000xm5",
+    "featured": true,
+    "price": "$299"
+  },
+  {
+    "id": 82,
+    "name": "Bose SoundLink Flex",
+    "slug": "bose-soundlink-flex",
+    "description": "Altavoz Bluetooth portátil resistente al agua, con graves profundos y hasta 12 horas de batería.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.bose.com/soundlink-flex",
+    "featured": false,
+    "price": "$149"
+  },
+  {
+    "id": 83,
+    "name": "JBL Tune 760NC",
+    "slug": "jbl-tune-760nc",
+    "description": "Auriculares inalámbricos con cancelación activa de ruido y hasta 50 horas de batería.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.jbl.com/tune-760nc",
+    "featured": false,
+    "price": "$129"
+  },
+  {
+    "id": 84,
+    "name": "Marshall Major IV",
+    "slug": "marshall-major-iv",
+    "description": "Auriculares icónicos con hasta 80 horas de batería y carga inalámbrica.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.marshallheadphones.com/major-iv",
+    "featured": false,
+    "price": "$149"
+  },
+  {
+    "id": 85,
+    "name": "Sennheiser Momentum 4 Wireless",
+    "slug": "sennheiser-momentum-4-wireless",
+    "description": "Auriculares premium con cancelación de ruido adaptativa y sonido de alta fidelidad.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.sennheiser.com/momentum-4-wireless",
+    "featured": true,
+    "price": "$349"
+  },
+  {
+    "id": 86,
+    "name": "Anker Soundcore Motion+",
+    "slug": "anker-soundcore-motion-plus",
+    "description": "Altavoz Bluetooth portátil con sonido Hi-Res, graves potentes y resistencia al agua IPX7.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.soundcore.com/motion-plus",
+    "featured": false,
+    "price": "$99"
+  },
+  {
+    "id": 87,
+    "name": "Apple HomePod mini",
+    "slug": "apple-homepod-mini",
+    "description": "Altavoz inteligente con Siri, sonido 360° y diseño compacto.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/homepod-mini/",
+    "featured": false,
+    "price": "$99"
+  },
+  {
+    "id": 88,
+    "name": "Beats Pill+",
+    "slug": "beats-pill-plus",
+    "description": "Altavoz portátil con sonido potente, Bluetooth y batería de larga duración.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.beatsbydre.com/pill-plus",
+    "featured": false,
+    "price": "$179"
+  },
+  {
+    "id": 89,
+    "name": "Jabra Elite 85h",
+    "slug": "jabra-elite-85h",
+    "description": "Auriculares inalámbricos con cancelación de ruido inteligente y hasta 36 horas de batería.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.jabra.com/elite-85h",
+    "featured": false,
+    "price": "$249"
+  },
+  {
+    "id": 90,
+    "name": "Edifier R1280DB",
+    "slug": "edifier-r1280db",
+    "description": "Parlantes de escritorio con Bluetooth, entrada óptica y sonido balanceado.",
+    "category": "Audio",
+    "images": [
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4156467/pexels-photo-4156467.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.edifier.com/r1280db",
+    "featured": false,
+    "price": "$129"
+  },
+  {
+    "id": 91,
+    "name": "iPhone 15",
+    "slug": "iphone-15",
+    "description": "El nuevo iPhone 15 con chip A17, cámara mejorada y pantalla Super Retina XDR.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/iphone-15/",
+    "featured": true,
+    "price": "$999"
+  },
+  {
+    "id": 92,
+    "name": "Samsung Galaxy Z Fold5",
+    "slug": "samsung-galaxy-z-fold5",
+    "description": "Smartphone plegable con pantalla AMOLED de 7.6\", multitarea avanzada y S Pen.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.samsung.com/galaxy-z-fold5",
+    "featured": false,
+    "price": "$1,799"
+  },
+  {
+    "id": 93,
+    "name": "Google Pixel 7a",
+    "slug": "google-pixel-7a",
+    "description": "Smartphone compacto con cámara de 64MP, Android puro y actualizaciones garantizadas.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://store.google.com/pixel-7a",
+    "featured": false,
+    "price": "$499"
+  },
+  {
+    "id": 94,
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "slug": "xiaomi-redmi-note-13-pro",
+    "description": "Smartphone de gama media con cámara de 200MP, pantalla AMOLED y batería de 5000mAh.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.mi.com/redmi-note-13-pro",
+    "featured": false,
+    "price": "$399"
+  },
+  {
+    "id": 95,
+    "name": "OnePlus 12",
+    "slug": "oneplus-12",
+    "description": "Pantalla AMOLED 120Hz, carga rápida de 100W y OxygenOS optimizado.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.oneplus.com/12",
+    "featured": false,
+    "price": "$899"
+  },
+  {
+    "id": 96,
+    "name": "Motorola Edge 50 Pro",
+    "slug": "motorola-edge-50-pro",
+    "description": "Cámara triple de 108MP, pantalla curva y batería de 5000mAh.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.motorola.com/edge-50-pro",
+    "featured": false,
+    "price": "$799"
+  },
+  {
+    "id": 97,
+    "name": "Sony Xperia 10 V",
+    "slug": "sony-xperia-10-v",
+    "description": "Smartphone compacto con pantalla OLED, audio Hi-Res y resistencia al agua.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.sony.com/xperia-10-v",
+    "featured": false,
+    "price": "$399"
+  },
+  {
+    "id": 98,
+    "name": "Oppo Reno 10 Pro+",
+    "slug": "oppo-reno-10-pro-plus",
+    "description": "Smartphone con cámara periscópica, carga rápida de 100W y pantalla curva.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.oppo.com/reno-10-pro-plus",
+    "featured": false,
+    "price": "$699"
+  },
+  {
+    "id": 99,
+    "name": "Realme 11 Pro+",
+    "slug": "realme-11-pro-plus",
+    "description": "Smartphone con cámara de 200MP, pantalla curva AMOLED y batería de 5000mAh.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.realme.com/11-pro-plus",
+    "featured": false,
+    "price": "$499"
+  },
+  {
+    "id": 100,
+    "name": "Vivo V29",
+    "slug": "vivo-v29",
+    "description": "Smartphone con cámara de 50MP, pantalla AMOLED y carga rápida de 80W.",
+    "category": "Smartphones",
+    "images": [
+      "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.vivo.com/v29",
+    "featured": false,
+    "price": "$399"
+  },
+  {
+    "id": 101,
+    "name": "Samsung Galaxy Tab S8 FE",
+    "slug": "samsung-galaxy-tab-s8-fe",
+    "description": "Tablet con pantalla de 12.4 pulgadas, S Pen incluido y batería de larga duración.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.samsung.com/galaxy-tab-s8-fe",
+    "featured": false,
+    "price": "$599"
+  },
+  {
+    "id": 102,
+    "name": "Apple iPad mini 7",
+    "slug": "apple-ipad-mini-7",
+    "description": "Tablet compacta con chip A16, pantalla Liquid Retina y compatibilidad con Apple Pencil.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/ipad-mini/",
+    "featured": false,
+    "price": "$499"
+  },
+  {
+    "id": 103,
+    "name": "Lenovo Yoga Tab 13",
+    "slug": "lenovo-yoga-tab-13",
+    "description": "Tablet Android con pantalla 2K, soporte integrado y altavoces JBL.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.lenovo.com/yoga-tab-13",
+    "featured": false,
+    "price": "$699"
+  },
+  {
+    "id": 104,
+    "name": "Xiaomi Pad 5",
+    "slug": "xiaomi-pad-5",
+    "description": "Tablet con pantalla 2.5K, Snapdragon 860 y batería de 8720mAh.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.mi.com/pad-5",
+    "featured": false,
+    "price": "$399"
+  },
+  {
+    "id": 105,
+    "name": "Huawei MatePad 11.5",
+    "slug": "huawei-matepad-11-5",
+    "description": "Tablet con pantalla de 120Hz, HarmonyOS y soporte para M-Pencil.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.huawei.com/matepad-11-5",
+    "featured": false,
+    "price": "$349"
+  },
+  {
+    "id": 106,
+    "name": "Microsoft Surface Go 4",
+    "slug": "microsoft-surface-go-4",
+    "description": "Tablet Windows compacta, ideal para estudiantes y movilidad extrema.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.microsoft.com/surface-go-4",
+    "featured": false,
+    "price": "$499"
+  },
+  {
+    "id": 107,
+    "name": "Amazon Fire Max 11",
+    "slug": "amazon-fire-max-11",
+    "description": "Tablet económica con pantalla Full HD, Alexa integrada y batería de larga duración.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.amazon.com/fire-max-11",
+    "featured": false,
+    "price": "$229"
+  },
+  {
+    "id": 108,
+    "name": "Alldocube iPlay 50 Mini",
+    "slug": "alldocube-iplay-50-mini",
+    "description": "Tablet Android compacta con pantalla HD, 4GB RAM y 64GB de almacenamiento.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.alldocube.com/iplay-50-mini",
+    "featured": false,
+    "price": "$129"
+  },
+  {
+    "id": 109,
+    "name": "Teclast T50 Pro",
+    "slug": "teclast-t50-pro",
+    "description": "Tablet Android con pantalla 2K, 8GB RAM y batería de 8000mAh.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.teclast.com/t50-pro",
+    "featured": false,
+    "price": "$199"
+  },
+  {
+    "id": 110,
+    "name": "Chuwi HiPad XPro",
+    "slug": "chuwi-hipad-xpro",
+    "description": "Tablet económica con pantalla IPS, 6GB RAM y 128GB de almacenamiento.",
+    "category": "Tablets",
+    "images": [
+      "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1290515/pexels-photo-1290515.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.chuwi.com/hipad-xpro",
+    "featured": false,
+    "price": "$149"
+  },
+  {
+    "id": 111,
+    "name": "Garmin Venu 3",
+    "slug": "garmin-venu-3",
+    "description": "Smartwatch con pantalla AMOLED, GPS, métricas avanzadas de salud y hasta 14 días de batería.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.garmin.com/venu-3",
+    "featured": false,
+    "price": "$399"
+  },
+  {
+    "id": 112,
+    "name": "Fitbit Versa 4",
+    "slug": "fitbit-versa-4",
+    "description": "Reloj inteligente con monitor de ritmo cardíaco, GPS y seguimiento de sueño avanzado.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.fitbit.com/versa-4",
+    "featured": false,
+    "price": "$229"
+  },
+  {
+    "id": 113,
+    "name": "Amazfit Bip 5",
+    "slug": "amazfit-bip-5",
+    "description": "Smartwatch económico con pantalla grande, GPS y hasta 10 días de batería.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.amazfit.com/bip-5",
+    "featured": false,
+    "price": "$69"
+  },
+  {
+    "id": 114,
+    "name": "Samsung Galaxy Watch 5 Pro",
+    "slug": "samsung-galaxy-watch-5-pro",
+    "description": "Smartwatch robusto con GPS, batería de larga duración y funciones avanzadas de salud.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.samsung.com/galaxy-watch-5-pro",
+    "featured": true,
+    "price": "$449"
+  },
+  {
+    "id": 115,
+    "name": "Huawei Band 8",
+    "slug": "huawei-band-8",
+    "description": "Pulsera fitness ultraligera con pantalla AMOLED, monitor de oxígeno y resistencia al agua.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.huawei.com/band-8",
+    "featured": false,
+    "price": "$49"
+  },
+  {
+    "id": 116,
+    "name": "Amazfit GTS 4 Mini",
+    "slug": "amazfit-gts-4-mini",
+    "description": "Smartwatch compacto con GPS, pantalla AMOLED y hasta 15 días de batería.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.amazfit.com/gts-4-mini",
+    "featured": false,
+    "price": "$99"
+  },
+  {
+    "id": 117,
+    "name": "Xiaomi Watch S1 Active",
+    "slug": "xiaomi-watch-s1-active",
+    "description": "Smartwatch deportivo con GPS, pantalla AMOLED y resistencia al agua 5ATM.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.mi.com/watch-s1-active",
+    "featured": false,
+    "price": "$149"
+  },
+  {
+    "id": 118,
+    "name": "Polar Ignite 3",
+    "slug": "polar-ignite-3",
+    "description": "Reloj fitness con GPS, monitor de sueño avanzado y pantalla AMOLED.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.polar.com/ignite-3",
+    "featured": false,
+    "price": "$229"
+  },
+  {
+    "id": 119,
+    "name": "Suunto 9 Peak Pro",
+    "slug": "suunto-9-peak-pro",
+    "description": "Reloj multideporte con GPS, batería de hasta 21 días y resistencia militar.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.suunto.com/9-peak-pro",
+    "featured": false,
+    "price": "$499"
+  },
+  {
+    "id": 120,
+    "name": "Mobvoi TicWatch Pro 5",
+    "slug": "mobvoi-ticwatch-pro-5",
+    "description": "Smartwatch con doble pantalla, Wear OS y batería de hasta 80 horas.",
+    "category": "Wearables",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.mobvoi.com/ticwatch-pro-5",
+    "featured": false,
+    "price": "$299"
+  },
+  {
+    "id": 121,
+    "name": "Logitech MX Keys Mini",
+    "slug": "logitech-mx-keys-mini",
+    "description": "Teclado inalámbrico compacto con retroiluminación inteligente y carga USB-C.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.logitech.com/mx-keys-mini",
+    "featured": false,
+    "price": "$99"
+  },
+  {
+    "id": 122,
+    "name": "Razer Goliathus Extended Chroma",
+    "slug": "razer-goliathus-extended-chroma",
+    "description": "Alfombrilla RGB para mouse, superficie microtexturizada y base antideslizante.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.razer.com/goliathus-extended-chroma",
+    "featured": false,
+    "price": "$59"
+  },
+  {
+    "id": 123,
+    "name": "Apple Magic Trackpad",
+    "slug": "apple-magic-trackpad",
+    "description": "Trackpad multitáctil inalámbrico con superficie de vidrio y batería recargable.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.apple.com/magic-trackpad/",
+    "featured": false,
+    "price": "$129"
+  },
+  {
+    "id": 124,
+    "name": "SanDisk Ultra Dual Drive 256GB",
+    "slug": "sandisk-ultra-dual-drive-256gb",
+    "description": "Memoria USB-C y USB-A para transferencias rápidas entre dispositivos.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.sandisk.com/ultra-dual-drive",
+    "featured": false,
+    "price": "$39"
+  },
+  {
+    "id": 125,
+    "name": "Baseus Power Bank 20000mAh",
+    "slug": "baseus-power-bank-20000mah",
+    "description": "Batería externa con carga rápida, USB-C y pantalla digital.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.baseus.com/power-bank-20000mah",
+    "featured": false,
+    "price": "$49"
+  },
+  {
+    "id": 126,
+    "name": "TP-Link Deco X20",
+    "slug": "tp-link-deco-x20",
+    "description": "Sistema WiFi Mesh AX1800 para cobertura total en el hogar.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.tp-link.com/deco-x20",
+    "featured": false,
+    "price": "$149"
+  },
+  {
+    "id": 127,
+    "name": "Kingston HyperX Cloud Stinger",
+    "slug": "kingston-hyperx-cloud-stinger",
+    "description": "Auriculares gaming ligeros con micrófono giratorio y sonido envolvente.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.kingston.com/hyperx-cloud-stinger",
+    "featured": false,
+    "price": "$59"
+  },
+  {
+    "id": 128,
+    "name": "Logitech C920s HD Pro Webcam",
+    "slug": "logitech-c920s-hd-pro-webcam",
+    "description": "Cámara web Full HD 1080p con tapa de privacidad y micrófono estéreo.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.logitech.com/c920s-hd-pro-webcam",
+    "featured": false,
+    "price": "$89"
+  },
+  {
+    "id": 129,
+    "name": "Ugreen USB-C Hub 9 en 1",
+    "slug": "ugreen-usb-c-hub-9-en-1",
+    "description": "Hub multifunción con HDMI, Ethernet, USB 3.0 y lector de tarjetas.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.ugreen.com/usb-c-hub-9-en-1",
+    "featured": false,
+    "price": "$59"
+  },
+  {
+    "id": 130,
+    "name": "SanDisk Extreme Portable SSD 1TB",
+    "slug": "sandisk-extreme-portable-ssd-1tb",
+    "description": "Disco SSD portátil resistente al agua y golpes, con velocidades de hasta 1050MB/s.",
+    "category": "Accesorios",
+    "images": [
+      "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.sandisk.com/extreme-portable-ssd",
+    "featured": false,
+    "price": "$129"
+  },
+  {
+    "id": 131,
+    "name": "Intel Core i7-14700K",
+    "slug": "intel-core-i7-14700k",
+    "description": "Procesador de 20 núcleos, ideal para gaming y productividad avanzada.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.intel.com/core-i7-14700k",
+    "featured": false,
+    "price": "$449"
+  },
+  {
+    "id": 132,
+    "name": "AMD Radeon RX 7900 XTX",
+    "slug": "amd-radeon-rx-7900-xtx",
+    "description": "Tarjeta gráfica de alto rendimiento con 24GB GDDR6 y soporte para ray tracing.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.amd.com/radeon-rx-7900-xtx",
+    "featured": true,
+    "price": "$999"
+  },
+  {
+    "id": 133,
+    "name": "Corsair RM850x 850W",
+    "slug": "corsair-rm850x-850w",
+    "description": "Fuente de poder modular 80 Plus Gold, silenciosa y eficiente.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.corsair.com/rm850x",
+    "featured": false,
+    "price": "$149"
+  },
+  {
+    "id": 134,
+    "name": "G.Skill Trident Z5 RGB 32GB",
+    "slug": "gskill-trident-z5-rgb-32gb",
+    "description": "Kit de memoria DDR5 de alta velocidad con iluminación RGB personalizable.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.gskill.com/trident-z5-rgb",
+    "featured": false,
+    "price": "$229"
+  },
+  {
+    "id": 135,
+    "name": "Samsung 870 EVO 2TB SSD",
+    "slug": "samsung-870-evo-2tb-ssd",
+    "description": "SSD SATA de alta capacidad y fiabilidad para almacenamiento masivo.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.samsung.com/870-evo-ssd",
+    "featured": false,
+    "price": "$179"
+  },
+  {
+    "id": 136,
+    "name": "ASUS TUF Gaming B650-PLUS",
+    "slug": "asus-tuf-gaming-b650-plus",
+    "description": "Placa base para AMD Ryzen, PCIe 5.0, WiFi 6 y diseño robusto.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.asus.com/tuf-gaming-b650-plus",
+    "featured": false,
+    "price": "$229"
+  },
+  {
+    "id": 137,
+    "name": "NZXT H7 Flow",
+    "slug": "nzxt-h7-flow",
+    "description": "Gabinete ATX con excelente flujo de aire y diseño minimalista.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.nzxt.com/h7-flow",
+    "featured": false,
+    "price": "$129"
+  },
+  {
+    "id": 138,
+    "name": "Noctua NH-D15",
+    "slug": "noctua-nh-d15",
+    "description": "Disipador de aire premium para CPU, silencioso y de alto rendimiento.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.noctua.at/nh-d15",
+    "featured": false,
+    "price": "$99"
+  },
+  {
+    "id": 139,
+    "name": "Crucial P5 Plus 1TB NVMe",
+    "slug": "crucial-p5-plus-1tb-nvme",
+    "description": "SSD NVMe PCIe 4.0 con velocidades de hasta 6600 MB/s para gaming y edición.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.crucial.com/p5-plus-nvme",
+    "featured": false,
+    "price": "$119"
+  },
+  {
+    "id": 140,
+    "name": "EVGA SuperNOVA 1000 G6",
+    "slug": "evga-supernova-1000-g6",
+    "description": "Fuente de poder modular 80 Plus Gold, 1000W para equipos de alto rendimiento.",
+    "category": "Componentes PC",
+    "images": [
+      "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "affiliateLink": "https://www.evga.com/supernova-1000-g6",
+    "featured": false,
+    "price": "$199"
+  }
+]
