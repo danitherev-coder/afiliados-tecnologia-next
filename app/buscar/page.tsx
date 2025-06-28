@@ -1,7 +1,10 @@
 import { Metadata } from 'next'
 import SearchPageClient from '../components/SearchPageClient'
 
-export const dynamic = 'force-dynamic'
+// For static generation:
+export async function getStaticProps() {
+  return { props: {} };
+}
 
 export const metadata: Metadata = {
   title: 'Buscar Productos - InnovaByte',
